@@ -1,6 +1,6 @@
 # Primeiro script feito em python!
 
-Utilizei o conteúdo do canal [Hashtag Programação](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o), onde é ensinado do zero até o final da criação deste script, assim tendo uma introdução da linguagem python.
+Neste repositório utilizei o conteúdo do canal [Hashtag Programação](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o), onde é ensinado do zero até o final da criação deste script, assim tendo uma introdução da linguagem python.
 
 Script onde analisamos arquivos em formato xlsx para encontrar o vendedor(a) que fez a maior venda dentro de um dos meses. 
 O script retornará via SMS quando encontrar o vendedor(a) com uma mensagem personalizada conforme descrito.
