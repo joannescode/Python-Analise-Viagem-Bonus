@@ -16,8 +16,6 @@ account_sid = "SEUACCOUNT_SIDAQUI"
 auth_token  = "SEUATUH_TOKENAQUI"
 client = Client(account_sid, auth_token)
 
-FILE_PATH = "/c/Users/Lucas/Desktop/Projetos/Github/Projeto-Análise_Viagem_Bônus/Base_de_Dados"
-
 lista_meses = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho']
 
 for mes in lista_meses:
