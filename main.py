@@ -11,9 +11,9 @@ import twilio as tw
 
 from twilio.rest import Client
 # Your Account SID from twilio.com/console
-account_sid = "AC97a25e9ee7fad24ddc0525dea4582b44"
+account_sid = "SEUACCOUNT_SIDAQUI"
 # Your Auth Token from twilio.com/console
-auth_token  = "067ecfcb9ecb6eb19c2fc4fba27c08ca"
+auth_token  = "SEUATUH_TOKENAQUI"
 client = Client(account_sid, auth_token)
 
 FILE_PATH = "/c/Users/Lucas/Desktop/Projetos/Github/Projeto-Análise_Viagem_Bônus/Base_de_Dados"
